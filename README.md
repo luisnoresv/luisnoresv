@@ -1,4 +1,4 @@
-# Hi, I'm luisnoresv(Devhorse) 👋
+# Hi, I'm Luis Nores(Devhorse) 👋
 
 I'm a software developer who enjoys building reliable, maintainable, and well-tested systems. I work across backend, cloud and frontend, and I like learning new tools that help teams move faster.
 
