@@ -3,9 +3,9 @@
 I'm a software developer who enjoys building reliable, maintainable, and well-tested systems. I work across backend, cloud and frontend, and I like learning new tools that help teams move faster.
 
 ## 🔭 About Me
-- Current: Working on building scalable APIs and improving developer experience
-- Learning: Advanced POO patterns, distributed systems, and observability
-- Interests: Backend engineering, cloud platforms, open-source
+- Current: Working on building scalable APIs, web applications and improving developer experience
+- Learning: Advanced POO patterns, distributed systems, AI
+- Interests: Fullstack engineering, cloud platforms, open-source
 - Fun fact: I enjoy playing football and playing guitar 🎸
 
 ## 🛠 Skills
