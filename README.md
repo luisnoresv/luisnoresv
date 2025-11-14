@@ -1,4 +1,4 @@
-# Hi, I'm luisnoresv 👋
+# Hi, I'm luisnoresv(Devhorse) 👋
 
 I'm a software developer who enjoys building reliable, maintainable, and well-tested systems. I work across backend, cloud and frontend, and I like learning new tools that help teams move faster.
 
@@ -10,7 +10,7 @@ I'm a software developer who enjoys building reliable, maintainable, and well-te
 
 ## 🛠 Skills
 - Languages: TypeScript, JavaScript, C#, HTML, CSS
-- Web & Backend: Node.js, Bun.js , Express, FastAPI, REST, GraphQL, Hono among others.
+- Web & Backend: Node.js, Bun.js , Express, Hono, Dotnet, React, Astro, Next.js
 - Databases & Data: SQL, SQLite, PostgreSQL, Redis, MongoDB
 - Testing & Quality: RTL, Jest, vitest, playwright, unit & integration testing
 
